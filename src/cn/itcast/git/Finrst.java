@@ -13,6 +13,9 @@ public class Finrst {
         System.out.println("hellow project");
         Finrst finrst = new Finrst();
         finrst.test();
+        for (int i=0;i<10;i++){
+            System.out.println("hellow project");
+        }
 
     }
     public  void  test(){
